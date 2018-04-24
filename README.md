@@ -9,7 +9,7 @@ Easy!
 #### To compile
 
 ```bash
-$ git clone 
+$ git clone https://github.com/anvius/femptoserver.git 
 $ cd femptoserver
 $ go build serve.go
 $ sudo cp serve /bin
@@ -25,3 +25,4 @@ $ serve [--port=NNNN]
 Default port is 5555.
 
 License MIT, 2018
+Antonio Villamarin
